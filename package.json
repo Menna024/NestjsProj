@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@nestjs/common": "^11.1.9",
+    "@nestjs/jwt": "^11.0.1",
+    "@nestjs/mongoose": "^11.0.3",
+    "@types/mongoose": "^5.11.96",
+    "slugify": "^1.6.6"
+  }
+}
